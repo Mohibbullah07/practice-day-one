@@ -1,0 +1,62 @@
+#heading{
+    text-align: center;
+    color: palegreen;
+}
+
+.title{
+    color: rgb(43, 255, 0);
+    tab-size: 35px;
+
+}
+.change-height{
+    display: inline-block;
+    height: 30px;
+}
+.list{
+    text-decoration: none;
+    background-color: bisque;
+    display:inline-block;
+    width: 200px;
+    box-shadow: 10px 20px rgb(211, 197, 197);
+    margin: 40px;
+    
+}
+
+ol ,ul li{
+    list-style-type: none;
+}
+
+div h3{
+    color: red;
+}
+.form{
+    padding: 20px;
+    border: 1px solid orangered;
+    border-radius: 50%;
+    text-align: center;
+}
+
+form input{
+    border: 1px solid purple;
+    padding-left: 15px;
+}
+
+#heading{
+    background-image: url("../Images/galaxy.jpg");
+
+}
+body{
+    background-color: rgb(241, 231, 219);
+}
+.middle{
+    text-align: center;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+
+ul li{
+   margin: 15px;
+}
